@@ -1,1 +1,3 @@
-print("Git-Teilprüfung- geändert im Master (main)- Branch")
+
+print("Git-Teilprüfung- Konflikt behoben")
+
